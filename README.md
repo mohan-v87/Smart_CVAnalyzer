@@ -21,7 +21,7 @@ Smart CV Analyzer is an AI-powered web application that predicts the most suitab
 ## Setup Instructions
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Deekshith1983/SmartCV_Analyzer.git
+   git clone https://github.com/mohan-v87/SmartCV_Analyzer.git
    cd SmartCV_Analyzer
    ```
 2. **Install Requirements:**
